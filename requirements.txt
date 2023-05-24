@@ -1,0 +1,10 @@
+requests
+BeautifulSoup
+urllib3
+dns.resolver
+urllib.request
+urllib.error
+sys
+threading
+random
+re
